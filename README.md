@@ -13,3 +13,9 @@ Youtube has played an important role in our daily life. Children have grown up s
 2. Number of subscribers
 3. Number of video views
 4. Number of trending videos
+
+## Hypothesis
+1. Top 250 ranking Youtubers (by grade, subs, views) in the U.S. will have more chances to earn more money than office workers
+2. As a full-time Youtuber, it will be more profitable to film entertainment videos than other types of videos such as comedy, music, fashion, knowledge, and etc
+3. Entertainment videos will likely to trend more than other types of videos such as comedy, music, fashion, knowledge, and etc
+4. The video category that has the most trending videos will have more subscribers than other categories. 
