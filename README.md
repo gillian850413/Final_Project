@@ -1,4 +1,4 @@
-# Final_Project - Youtube Video & Channel Data Analysis
+# IS590PR Final Project - Youtube Video & Channel Data Analysis
 By Pin-Huey Chiang, Hung-Yi Lin
 
 Youtube has played an important role in our daily life. Children have grown up surrounded by videos churned out by performers who films and share all kinds of contents such as daily life, music, video gaming and fashion on Youtube. This has turned YouTuber into one of the most popular career in this generation. **This data analysis provided information for people who wants to become Youtuber of how to earn money and become a successful Youtuber.**
