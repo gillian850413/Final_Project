@@ -74,3 +74,7 @@ Top-ranking Youtuber are extremely rich. However, only a few people can hit the 
 1. [YouTube categories](https://creatoracademy.youtube.com/page/lesson/overview-categories#strategies-zippy-link-2)
 2. [YouTube trending video definition](https://support.google.com/youtube/answer/7239739?hl=en)
 3. [Justin Timberlake SocialBlade Statistics](https://socialblade.com/youtube/user/justintimberlake)
+
+## Division of Work
+1. Hung Yi Lin: Top rank Youtube channel analysis, Poster
+2. Pin Huey Chiang: Trending video analysis, Readme.md, Doctest
