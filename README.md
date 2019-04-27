@@ -31,13 +31,13 @@ This analysis analyze the information of Top 250 US YouTubers based on the numbe
 
 ## Result
 ### Part 1
-1. Compare to other types, entertainment videos have the most trending videos during the data captured period (from 2017-11-14 to 2018-06-14). However, we cannot directly say filming entertainment videos will definitely make your videos trend more. We need to calculate the proportion of "num of trending videos / num of videos to know the performance of entertainment videos. Since we do not have the data of total uploads, we chose to look at the average of views/likes/dislikes/comments in per trending video, and average time a video need to spend from publish to upload. According to the result, entertainment videos is one of the video type that audiences can attract more audience to watch.
+1. Compare to other types, entertainment videos have the most trending videos during the data captured period (from 2017-11-14 to 2018-06-14). However, we cannot directly say filming entertainment videos will definitely make your videos trend more. We need to calculate the proportion of "num of trending videos / num of videos to know the performance of entertainment videos. Since we do not have the data of total uploads, we chose to look at the average of views/likes/dislikes/comments in per trending video, and average time a video need to spend from publish to upload. According to the result, entertainment videos is one of the video type that audiences can attract more audiences to watch.
 2. Among the top 250 US Youtube channels, 65 of them are entertainment channel. Some of the channels earn much more money than others, while some are lower than average. The large gap makes the average earnings not as high as expected. However, when we look at **all 32** the categories, entertainment video is in the **top 5 categories** that can earn most profits. Thus, we can say that entertainment type of Youtube channels has a lot of potentials if you want to earn money, but it is also very competitive to become the Top YouTubers in this category.
 
 ### Part 2
 1. According to the result, Top 250 US YouTubers, which is **0.001%** of the total YouTubers in the world, account for **15%** of the trending videos in the given period. This showed that people pay more attention on Top YouTuber's video than others. If a person would like to become a YouTuber how they attract people to watch their films is one of the most important tasks. 
-2. We came up with an formula to obtain the concept of earning distribution of top-ranking videos and discover the income difference among the Top YouTubers. The more the indicator is, the more earning gap there will be. 
-<img src="https://github.com/gillian850413/Final_Project/blob/master/image/formula.png" width="450" height="150"/>
+2. We found of the there is a big income gap between the top 10 entertainment YouTubers and the last 10 entertainment YouTubers. To have a better understanding in each categories' earning difference, we came up with a formula to obtain the concept of earning distribution of top-ranking channels. The higher the indicator is, the larger earning gap will be. 
+<img src="https://github.com/gillian850413/Final_Project/blob/master/image/formula.png" width="600" height="150"/>
 
 3. Last, we realized that YouTuber is an unpredictable and unstable job. Take Justin Timberlake's channel as an example. Although he is not a professional YouTuber, he can still earn money from every click per cost of his videos and the advertisement. We found out that his last video is uploaded two months ago. According to Socialblades' channel statistic, the estimated channel Yearly Income is $83 - $1.3K, while other YouTubers with similar number of subscribers can earn millions of dollars per year with their channel. Socialblades estimates the daily income per channel based on the increase or decrease of video views and subscribers, than calculate the yearly income by multipling 365. This shows that when a channel is inactive for a while the growth of video videos will sharply drop. This will have a huge impact on the earnings of a channel. Therefore, if people wants to become successful in this career, they need to keep your channel active by uploading the videos frequently. 
 
@@ -70,6 +70,7 @@ Top-ranking Youtuber are extremely rich. However, only a few people can hit the 
 ### Dataset Source:
 1. [SocialBlade](https://socialblade.com)
 2. [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new/kernels)
-3. [YouTube categories](https://creatoracademy.youtube.com/page/lesson/overview-categories#strategies-zippy-link-2)
-4. [YouTube trending video definition](https://support.google.com/youtube/answer/7239739?hl=en)
-5. [Justin Timberlake SocialBlade Statistics](https://socialblade.com/youtube/user/justintimberlake)
+### Other Sources:
+1. [YouTube categories](https://creatoracademy.youtube.com/page/lesson/overview-categories#strategies-zippy-link-2)
+2. [YouTube trending video definition](https://support.google.com/youtube/answer/7239739?hl=en)
+3. [Justin Timberlake SocialBlade Statistics](https://socialblade.com/youtube/user/justintimberlake)
