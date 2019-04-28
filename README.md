@@ -76,5 +76,5 @@ Top-ranking Youtuber are extremely rich. However, only a few people can hit the 
 3. [Justin Timberlake SocialBlade Statistics](https://socialblade.com/youtube/user/justintimberlake)
 
 ## Division of Work
-1. Hung Yi Lin: Top rank Youtube channel analysis, Poster
-2. Pin Huey Chiang: Trending video analysis, Readme.md, Doctest
+1. Hung Yi Lin: Top rank Youtube channel analysis, Poster, Doctest
+2. Pin Huey Chiang: Trending video analysis, Readme.md, Poster, Doctest
