@@ -25,6 +25,7 @@ The trending videos is decided by YouTube trending system based on view counts, 
 ### Top Ranking YouTube Channel Analysis
 This analysis analyze the information of Top 250 US YouTubers based on the number of subscribers or number of views, which gives insights of the profit the top Youtubers can earn.
 
+    + In this analysis, we only collects the Top Youtube channels in the United States.
     + In this analysis, we did not exclude the official channels.
     + This analysis uses the categories that defined by Youtube, which includes Auto & Vehicles, Education, Entertainment, Food, Music, and so on. Youtubers can choose what kind of categories the video belongs to before uploading them to the platform in their video management webpage.
     
