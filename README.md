@@ -8,8 +8,8 @@ Youtube has played an important role in our daily life. People spend more time o
 
 ## Hypothesis
 ### Part 1
-* Entertainment videos will likely to trend more than other types of videos such as comedy, music, fashion, knowledge, and etc
-* Among top-ranking Youtuber, it will be more profitable to operate the entertainment type channel than other types of channel such as comedy, music, fashion, knowledge
+* Entertainment videos will likely to trend more than other types of videos such as comedy, music, fashion and knowledge in the United States. 
+* Among top-ranking U.S. Youtubers, it will be more profitable to operate the entertainment type channel than other types of channel such as comedy, music, fashion, knowledge
 
 ### Part 2
 * Top U.S. Youtubers will have more trending videos than other Youtube channels
