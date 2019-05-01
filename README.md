@@ -40,7 +40,7 @@ This analysis analyze the information of Top 250 US YouTubers based on the numbe
 2. We found of the there is a big income gap between the top 10 entertainment YouTubers and the last 10 entertainment YouTubers. To have a better understanding in each categories' earning difference, we came up with a formula to obtain the concept of earning distribution of top-ranking channels. The higher the indicator is, the larger earning gap will be. 
 <img src="https://github.com/gillian850413/Final_Project/blob/master/image/formula.png" width="600" height="150"/>
 
-3. Last, we realized that YouTuber is an unpredictable and unstable job. Take Justin Timberlake's channel as an example. Although he is not a professional YouTuber, he can still earn money from every click per cost of his videos and the advertisement. We found out that his last video is uploaded two months ago. According to Socialblades' channel statistic, the estimated channel Yearly Income is $83 - $1.3K, while other YouTubers with similar number of subscribers can earn millions of dollars per year with their channel. Socialblades estimates the daily income per channel based on the increase or decrease of video views and subscribers, than calculate the yearly income by multipling 365. This shows that when a channel is inactive for a while the growth of video videos will sharply drop. This will have a huge impact on the earnings of a channel. Therefore, if people wants to become successful in this career, they need to keep your channel active by uploading the videos frequently. 
+3. Last, we realized that YouTuber is an unpredictable and unstable job. Take Justin Timberlake's channel as an example. Although he is not a professional YouTuber, he can still earn money from every click per cost of his videos and the advertisement. We found out that his last video is uploaded two months ago. According to Socialblades' channel statistic, the estimated channel Yearly Income is $83 - $1.3K, while other YouTubers with similar number of subscribers can earn millions of dollars per year with their channel. Socialblades estimates the daily income per channel based on the increase or decrease of video views and subscribers, than calculate the yearly income by multiplying 365. This shows that when a channel is inactive for a while the growth of video views and number of subscribers will sharply drop, which will have a huge impact on the earnings of a channel. Therefore, if people wants to become successful in this career, they need to keep your channel active by uploading the videos frequently. 
 
 ## Summary
 ### Possible factors to become a successful Youtuber:
@@ -58,7 +58,7 @@ This analysis analyze the information of Top 250 US YouTubers based on the numbe
 ### Conclusion
 This analysis shows that entertainment videos are one of the most popular types for Youtube viewers. However, it is also pretty competitive to make the big profit by filming entertainment type videos since there are large amount of entertainment channels in YouTube now.
 
-Top-ranking Youtuber are extremely rich. However, only a few people can hit the high rank and their channels includes disproportionate trending videos. On top, the earning distribution of top-ranking Youtubers is strongly right skewed, which shows a large earning gap even in the top rank.
+Top-ranking Youtubers are extremely rich. However, only a few people can hit the high rank and their channels includes disproportionate trending videos. On top, the earning distribution of top-ranking Youtubers is strongly right skewed, which shows a large earning gap even in the industry.
 
 ## Limitation
 * The dataset only includes 8 month data, we may need a larger time period data to have a better analysis
@@ -66,6 +66,7 @@ Top-ranking Youtuber are extremely rich. However, only a few people can hit the 
 
 ## Future Work
 * We can collect not only the Top ranking YouTube channel information, but also the channel information that are not included in the chart for a more in-depth comparison between the well-known YouTubers and other normal YouTubers
+* We can compare the data from other countries and see whether the favorite type of videos and profit earnings will differ from country to country. 
 
 ## Source
 ### Dataset Source:
